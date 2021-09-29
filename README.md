@@ -22,3 +22,4 @@ Initial inspiration for the project came from [Codepen.io](https://codepen.io/na
 Copyright (c) Alphanum404. All rights reserved.
 
 Licensed under the [MIT](LICENSE) License.
+# personal-blog
